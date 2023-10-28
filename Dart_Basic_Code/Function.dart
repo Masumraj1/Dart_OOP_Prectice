@@ -1,0 +1,19 @@
+// ///////////////////////////////////////////////////////
+// function function_name(parameters) {
+//   // Body of the function.
+// }
+// ///যেমন, addTwo calling rules:
+// void main() {
+//   addTwoNumbers () {
+//     print(10 + 20);
+//   }
+//
+//   addTwoNumbers();
+// }
+//
+// /////////////////////////////////////////////////////
+
+
+
+
+//Be continue
